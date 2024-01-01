@@ -1,0 +1,9 @@
+
+*.h5
+*.mat
+*.mp4
+*.gz
+*.txt
+*.npy
+*.bin
+C3-CNN/W3A1/model_data/variables/variables.data-00000-of-00001
